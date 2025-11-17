@@ -1,0 +1,33 @@
+---Aula 02---
+
+Decimal > Binário
+Exemplo_01: 13 na base 10
+
+13 | 2
+ 1 | 6 | 2
+     0 | 3 | 2
+         1 | 1 | 2
+             1 | 0
+
+Resto de trás pra frente 01101 ou 1101
+ou
+
+64 32 16 8 4 2 1
+         1 1 0 1 
+8 + 4 + 1 = 13
+13 na base 13 em Binário é 1101
+
+Exemplo_02: 40 na base 10 
+
+32 16 8 4 2 1
+ 1  0 1 0 0 0
+32 + 8 = 40
+40 na base 10 em Binário é 10100
+
+Provando
+10100 é quanto na base 10 ?
+
+32 16 8 4 2 1
+ 1  0 1 0 0 0
+32 + 8 = 40
+10100 é quanto na base 10 ? 40

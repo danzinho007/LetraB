@@ -1,0 +1,52 @@
+---Aula 01---
+
+Sistema Decimal = Base 10 ( Número de dedos da mão )
+0 1 2 3 4 5 6 7 8 9
+
+3785 :
+3.1000 + 7.100 + 8.10 + 5.1
+3.10³ + 7.10² + 8.10 + 5.10°
+
+Notação posicional :
+unidade = 5
+dezena = 8
+centena = 7
+milhar = 3
+
+2004 :
+2 x 10³ + 0 x 10² + 0 x 10 + 4 x 10°
+2000     +  0     +   0    +  4
+
+Unidade : 10°
+Dezena = 10¹ --- DezenaMilhar 10(4)  --- DezenaMilhão 10(7)
+Centena = 10²--- CentenaMilhar 10(5) --- CentenaMilhão 10(8)
+Milhar = 10³ --- Milhão 10(6)        --- Bilhão 10(9)
+
+Sistema Binário : 0 1
+
+Decimal = Binário 
+0 = 0   - 5 = 101  - 10 = 1010 
+1 = 1   - 6 = 110  - 11 = 1011
+2 = 10  - 7 = 111  -
+3 = 11  - 8 = 1000 -
+4 = 100 - 9 = 1001 -
+
+Binário > Decimal 
+10      = 1 x 2¹  + 0 x 2°
+        = 2 + 1
+        = 3
+
+1011    = 1 x 2³ + 0 x 2² + 1 x 2¹ + 1 x 2°
+        = 1 x 8  + 0 x 4  + 1 x 2  + 1 x 1
+        =   8    +   0    +   2    +    1
+        = 11
+
+10011 = 
+
+Monta a tabela colocando cada número embaixo:
+64 32 16 8 4 2 1
+       1 0 0 1 1 
+
+Corta os 0 e soma 
+16 + 2 + 1 = 19
+10011 é 11 em Decimal
